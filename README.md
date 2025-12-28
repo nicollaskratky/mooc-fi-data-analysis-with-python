@@ -81,8 +81,6 @@ To keep my learning organized, the repository follows a standard data science pr
 ├── data/                   # Datasets used in exercises and projects
 ├── part01-01/              # Solved exercises for Chapter 1, Part 1 (e.g., Python Basics)
 ├── part01-02/              # Solved exercises for Chapter 1, Part 2, and so on...
-├── notebooks/              # Jupyter Notebooks for experiments and detailed analysis
-├── notes/                  # Complementary notes and theoretical summaries
 ├── requirements.txt        # Dependencies needed to run the code
 └── README.md               # This learning guide
 ```
