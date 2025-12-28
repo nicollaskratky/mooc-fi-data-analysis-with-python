@@ -1,3 +1,4 @@
+
 # 🎓 Data Analysis with Python (2024-2025) - Learning Journey
 
 This repository serves as my personal record of solutions and key takeaways from the **Data Analysis with Python** course offered by the University of Helsinki (MOOC.fi). My goal is to document my progress and solidify my understanding of the entire data analysis pipeline using the Python ecosystem.
