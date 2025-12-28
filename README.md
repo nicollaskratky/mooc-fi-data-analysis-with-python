@@ -80,7 +80,13 @@ To keep my learning organized, the repository follows a standard data science pr
 .
 ├── data/                   # Datasets used in exercises and projects
 ├── part01-01/              # Solved exercises for Chapter 1, Part 1 (e.g., Python Basics)
+│   ├── src/                # Source code for the exercise
+│   ├── test/               # TMC test files
+│   └── tmc/                # TMC configuration files
 ├── part01-02/              # Solved exercises for Chapter 1, Part 2, and so on...
+│   ├── src/
+│   ├── test/
+│   └── tmc/
 ├── requirements.txt        # Dependencies needed to run the code
 └── README.md               # This learning guide
 ```
